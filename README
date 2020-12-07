@@ -1,1 +1,5 @@
+The Google Colab notebook includes code to:
 
+1. Set up PEGASUS environment
+2. Fine-tune PEGASUS/NEWSROOM_CNN_DAILYMAIL model
+3. Run the demo that generates two summaries of our implementation model and PEGASUS orginial model from an input article
